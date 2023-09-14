@@ -1,0 +1,8 @@
+nibabel
+matplotlib
+numpy
+pydicom
+winsound
+sklearn
+pywt
+tqdm
